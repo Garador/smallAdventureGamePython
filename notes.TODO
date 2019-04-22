@@ -1,0 +1,13 @@
+- Rooms
+	- Chests
+	- Doors
+	- Mousetraps
+	- Vases
+	- Room ID
+- Goal
+	- Gather 5 keys
+- Items
+	- Coins
+	- Potions
+	- Books
+	- Keys (1/5 chance of getting a key)

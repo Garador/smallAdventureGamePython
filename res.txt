@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator
+https://stackoverflow.com/questions/2627002/whats-the-pythonic-way-to-use-getters-and-setters
+https://radek.io/2011/07/21/static-variables-and-methods-in-python/
+https://jaxenter.com/implement-switch-case-statement-python-138315.html
